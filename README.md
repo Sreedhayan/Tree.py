@@ -145,6 +145,6 @@ You are free to use, modify, and distribute this software.
 
 # 👨‍💻 Author
 
-Built with 🐍 for developers who like clean documentation.
+Built for developers who like clean documentation.
 
 ---
